@@ -1,0 +1,35 @@
+body {
+  background-color: #e51c23;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+.social li{
+  display: inline;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.row {
+  margin-top: 80px;
+}
+
+.promo {
+  margin: 10px 0;
+  max-height: 175px;
+}
+
+.card {
+  height: 350px;
+}
+
+.cImage {
+  max-height: 450px;
+}
